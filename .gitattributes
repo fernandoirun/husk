@@ -1,0 +1,2 @@
+# Normalize line endings to LF in the repo and working tree (Python + Linux CI).
+* text=auto eol=lf
